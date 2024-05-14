@@ -1,4 +1,4 @@
 # **Peep The Palace**
-- I’m currently working on ... [*GitHub*](https://github.com/) lol
-- I’m currently learning ... Everything about this bro
-- I’m looking for help with ... Just about everything 😏
+- I’m currently working on ... [*GitHub*](https://github.com/K0riJin)
+- I’m currently learning ... [*GitForStarters*](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F)
+- I’m looking for help with ... Just about everything 🧠
